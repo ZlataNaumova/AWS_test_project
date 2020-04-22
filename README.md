@@ -1,1 +1,1 @@
-# AWS_test_project
+# aws_test_project
