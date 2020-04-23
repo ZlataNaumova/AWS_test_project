@@ -1,2 +1,2 @@
-FROM zlata-naumova/aws_test_project
+FROM hshar/webapp
 ADD . /var/www/html
